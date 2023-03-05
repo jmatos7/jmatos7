@@ -8,7 +8,8 @@
 
 ##
 
-![Snake animation](https://github.com/pedroacamargo/pedroacamargo/blob/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedroacamargo/pedroacamargo/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <div>
