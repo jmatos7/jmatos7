@@ -6,7 +6,7 @@
   I hope you enjoy some of my projects!
 </p>
 
-<div style="display: inline-block; text-align: center;">
+<p>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -18,9 +18,9 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
+</p>
 
-<p align="center" style="margin-top: 250px;">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jmatos7&color=191b1e" alt="Profile views" />
 </p>
  
